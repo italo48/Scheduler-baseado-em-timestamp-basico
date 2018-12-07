@@ -28,3 +28,7 @@ usado pelo escalonador do SGBD como uma das técnicas de controle de concorrênc
     		fim
     	fim
     fim
+
+---
+
+PS:  Provavelmente a minha implementação deve está incorreta, mas eu pretendo corrigir e deixar mais bonitinha ^^.
