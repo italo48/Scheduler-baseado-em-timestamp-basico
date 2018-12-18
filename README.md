@@ -1,6 +1,6 @@
 # TS-Básico
 
-Esse projeto é uma implementação em Java do algoritmo de TS-Básico
+Este projeto é uma implementação em Java do algoritmo de TS-Básico
 usado pelo escalonador do SGBD como uma das técnicas de controle de concorrência.
 
 # Algoritmo
@@ -30,5 +30,3 @@ usado pelo escalonador do SGBD como uma das técnicas de controle de concorrênc
     fim
 
 ---
-
-PS:  Provavelmente a minha implementação deve está incorreta, mas eu pretendo corrigir e deixar mais bonitinha ^^.
