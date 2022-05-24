@@ -1,4 +1,4 @@
-# TS-Básico
+# Scheduler Baseado em Timestamp Básico
 
 Este projeto é uma implementação em Java do algoritmo de TS-Básico
 usado pelo escalonador do SGBD como uma das técnicas de controle de concorrência.
