@@ -3,7 +3,7 @@
 Este projeto é uma implementação em Java do algoritmo de TS-Básico
 usado pelo escalonador do SGBD como uma das técnicas de controle de concorrência.
 
-# Algoritmo
+## Algoritmo
 
     TS-Básico(Tx, dado, operação)
 
@@ -30,3 +30,6 @@ usado pelo escalonador do SGBD como uma das técnicas de controle de concorrênc
     fim
 
 ---
+
+## Mais informações
+[Slide da ufsc sobre o assunto](http://www.inf.ufsc.br/~r.mello/ine5616/11-Scheduler-III.pdf)
